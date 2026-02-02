@@ -101,11 +101,5 @@ Output:
 === Program completed successfully ===
 ```
 
-## Notes for C++ Students
 
-- Uses `std::unique_ptr` for memory management (modern C++)
-- Uses `std::unordered_map` for the symbol table
-- Uses `std::vector` for token and statement lists
-- All classes are in header files with implementations in .cpp files
-- Exception handling for error reporting
 
