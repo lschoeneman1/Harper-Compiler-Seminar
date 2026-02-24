@@ -1,0 +1,15 @@
+var score = 85;
+if (score >= 90) {
+    println(90);
+} else {
+    if (score >= 80) {
+        println(80);
+    } else {
+        if (score >= 70) {
+            println(70);
+        } else {
+            println(0);
+        }
+    }
+}
+

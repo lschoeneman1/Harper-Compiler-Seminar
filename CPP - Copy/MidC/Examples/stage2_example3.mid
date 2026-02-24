@@ -1,0 +1,8 @@
+var first = "John";
+var last = "Doe";
+var fullName = first + " " + last;
+print(fullName);
+var age = 25;
+var info = "Name: " + fullName + ", Age: " + age;
+print(info);
+

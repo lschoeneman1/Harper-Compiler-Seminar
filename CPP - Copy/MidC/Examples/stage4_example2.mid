@@ -1,0 +1,8 @@
+var count = 10;
+while (count > 0) {
+    println(count);
+    count = count - 1;
+}
+
+
+

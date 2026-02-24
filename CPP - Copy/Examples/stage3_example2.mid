@@ -1,0 +1,7 @@
+var y = 3;
+if (y == 3) {
+    println(1);
+} else {
+    println(0);
+}
+

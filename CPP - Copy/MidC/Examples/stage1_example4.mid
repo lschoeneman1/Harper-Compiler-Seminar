@@ -1,0 +1,5 @@
+var x = inputInt();
+var y = inputInt();
+var sum = x + y;
+print(sum);
+
