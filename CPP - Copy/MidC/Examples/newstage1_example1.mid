@@ -1,6 +1,0 @@
-var x = 25;
-var total = x+5;
-total = total+ 1;
-println(x);
-println(total);
-println(total*2);

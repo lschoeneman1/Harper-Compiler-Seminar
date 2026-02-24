@@ -1,5 +1,0 @@
- var x = (10 + 5) * 2;
-print(x);
-var y = x / 3;
-print(y);
-
