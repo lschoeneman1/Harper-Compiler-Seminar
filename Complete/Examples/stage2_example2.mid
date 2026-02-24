@@ -1,0 +1,7 @@
+var letter = 'A';
+println(letter);
+var message = "The answer is " + 42;
+println(message);
+var full = "Hello" + " " + "World";
+println(full);
+

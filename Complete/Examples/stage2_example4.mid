@@ -1,0 +1,5 @@
+var name = inputString();
+var age = inputInt();
+var greeting = "Hello, " + name + "! You are " + age + " years old.";
+print(greeting);
+

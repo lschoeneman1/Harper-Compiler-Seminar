@@ -1,0 +1,5 @@
+var name = "Alice";
+println(name);
+var greeting = "Hello, " + name;
+println(greeting);
+
